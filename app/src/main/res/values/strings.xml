@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WalMartHackathon</string>
+
+    <string name="title">Title: </string>
+    <string name="description">Description: </string>
+    <string name="image">image</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="error_occured">Error Occured</string>
+    <string name="sharedPreference">sharedPreference</string>
+    <string name="media_not_image">Media Type is not Image. Hence, today\'s image cannot be loaded.</string>
+</resources>
